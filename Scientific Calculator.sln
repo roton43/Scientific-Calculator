@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scientific Calculator", "Scientific Calculator\Scientific Calculator.vcxproj", "{61BA2876-99F0-4280-9ABA-96F5102080EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4DADD64-4907-429C-ADE0-12ABDADDDACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Debug|x64.ActiveCfg = Debug|x64
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Debug|x64.Build.0 = Debug|x64
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Debug|x86.Build.0 = Debug|Win32
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Release|x64.ActiveCfg = Release|x64
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Release|x64.Build.0 = Release|x64
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Release|x86.ActiveCfg = Release|Win32
+		{61BA2876-99F0-4280-9ABA-96F5102080EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5952DF-6BFB-41B8-8223-D1D0E9575020}
+	EndGlobalSection
+EndGlobal
